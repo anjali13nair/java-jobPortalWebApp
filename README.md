@@ -48,7 +48,7 @@ The project is developed using the following technologies and tools:
        ```sql
        CREATE DATABASE job_portal;
        ```
-     - **Step 2**: Use the provided SQL script (if any) located in the `db` directory or write your schema and insert statements to create the required tables and populate sample data.  
+     - **Step 2**: Use the provided SQL scripts `create-user.sql` and `jobPortal.sql` located in the `src/main/resource` directory or write your schema and insert statements to create the required tables and populate sample data according to your requirements.  
    - Ensure the database server is running before starting the application.
 ---
 
