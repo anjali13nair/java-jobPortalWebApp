@@ -89,7 +89,7 @@ We welcome contributions to make this project better! Here's how you can contrib
 6. **Test the application**:
    - Use the application as a recruiter or candidate:
      - **Recruiter**: Log in to post jobs, view applicants, and manage your profile.
-     - **Candidate**: Search for jobs, apply, manage profile and upload your resume.
+     - **Candidate**: Search for jobs using job title or location, apply, manage profile and upload your resume.
 
 ---
 
@@ -97,5 +97,5 @@ We welcome contributions to make this project better! Here's how you can contrib
 If you have any questions, suggestions, or feedback, feel free to reach out:  
 - **GitHub**: [@anjali13nair](https://github.com/anjali13nair)
 - **Email**: anjalinnair13@gmail.com
-- **LinkedIn**:[@Anjali Nair](https://www.linkedin.com/in/anjalinnair13/)
+- **LinkedIn**:[Anjali Nair](https://www.linkedin.com/in/anjalinnair13/)
 
