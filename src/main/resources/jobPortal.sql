@@ -1,3 +1,4 @@
+-- Drop the db first if they exist
 DROP DATABASE  IF EXISTS `jobportal`;
 CREATE DATABASE `jobportal`;
 USE `jobportal`;
