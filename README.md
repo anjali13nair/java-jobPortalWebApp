@@ -66,7 +66,7 @@ We welcome contributions to make this project better! Here's how you can contrib
 1. **Fork** the repository by clicking the "Fork" button at the top of this page.
 2. **Clone** your forked repository:
    ```bash
-   git clone https://github.com/<your-username>/java-jobPortalWebApp.git
+   git clone https://github.com/<anjali13nair>/java-jobPortalWebApp.git
 3. **Build the application**:
    - Open a terminal and navigate to the root directory of the project.
    - Run the following command to build the application:
